@@ -1,4 +1,4 @@
 # Practice-Repository
 Getting familiar with GitHub
-# Change 1
-## Change 2
+# Large font
+## Small font
